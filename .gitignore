@@ -1,0 +1,9 @@
+ipch/*
+Debug/*
+pong/Debug/*
+
+*.opensdf
+*.suo
+*.elf
+*.SFO
+*.o
